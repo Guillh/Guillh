@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Guilherme Lima
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Guilherme Gustavo Faria Lima, tenho 25 anos e sou natural do Paraná. Atualmente, estou cursando Eganharia de Software.
 
@@ -77,5 +77,4 @@ Me chamo Guilherme Gustavo Faria Lima, tenho 25 anos e sou natural do Paraná. A
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guillh&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
